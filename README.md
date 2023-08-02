@@ -1,6 +1,6 @@
 # expense_tracker
 
-##About
+## About
 This app helps one to keep track of all the expenses and it also shows a category wise graph of those expenses.
 
 ## Getting Started
